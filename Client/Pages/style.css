@@ -26,7 +26,14 @@
     text-decoration: none;
     color: black;
     cursor: pointer;
+    transition: color 0.3s ease;
 }
+
+/* Hover state */
+.navBar .navContent ul li a:hover {
+  color: #681B1B;
+}
+
 
 .navBar .navButtons ul{
     display: flex;
@@ -52,4 +59,26 @@
     color: #681B1B;
     font-weight: bold;
     cursor: pointer;
+}
+
+
+
+.dropdownNav{
+    opacity: 0;
+    visibility: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    background-color: #681b1b3c;
+}
+
+.colHead{
+    color: #681B1B;
+    font-weight: bold;
+}
+
+.colContent li a{
+    text-decoration: none;
+    color: black;
 }
