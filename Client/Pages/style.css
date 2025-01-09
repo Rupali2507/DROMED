@@ -1,84 +1,89 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.navBar{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 2px;
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px;
 }
 
-.navBar img{
-    height: 5vw;
-    margin-left: 2vw;
+.navBar img {
+  height: 5vw;
+  margin-left: 2vw;
 }
 
-.navBar .navContent ul{
-    list-style: none;
-    display: flex;
-    gap: 5vw;
+.navBar .navContent ul {
+  list-style: none;
+  display: flex;
+  gap: 5vw;
 }
 
-.navBar .navContent ul li a{
-    text-decoration: none;
-    color: black;
-    cursor: pointer;
-    transition: color 0.3s ease;
+.navBar .navContent ul li a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  transition: color 0.3s ease;
 }
 
 /* Hover state */
 .navBar .navContent ul li a:hover {
-  color: #681B1B;
+  color: #681b1b;
 }
 
-
-.navBar .navButtons ul{
-    display: flex;
-    list-style: none;
-    gap: 1vw;
-    margin-right: 2vw;
+.navBar .navButtons ul {
+  display: flex;
+  list-style: none;
+  gap: 1vw;
+  margin-right: 2vw;
 }
 
-.navBar .navButtons .box1{
-    padding: 10px 20px;
-    border-radius: 50px;
-    border: 3px solid #681B1B;
-    color: white;
-    background-color: #681B1B;
-    cursor: pointer;
+.navBar .navButtons .box1 {
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: 3px solid #681b1b;
+  color: white;
+  background-color: #681b1b;
+  cursor: pointer;
 }
 
-.navBar .navButtons .box2{
-    padding: 10px 20px;
-    border-radius: 50px;
-    border: 3px solid #681B1B;
-    background-color: white;
-    color: #681B1B;
-    font-weight: bold;
-    cursor: pointer;
+.navBar .navButtons .box2 {
+  padding: 10px 20px;
+  border-radius: 50px;
+  border: 3px solid #681b1b;
+  background-color: white;
+  color: #681b1b;
+  font-weight: bold;
+  cursor: pointer;
 }
 
-
-
-.dropdownNav{
-    opacity: 0;
-    visibility: hidden;
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 15px;
-    padding-bottom: 25px;
-    background-color: #681b1b3c;
+.dropdownNav {
+  opacity: 0;
+  visibility: hidden;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  background-color: #681b1b3c;
+  margin: 20px;
+  margin-top: 0;
+  border-radius: 2%;
 }
 
-.colHead{
-    color: #681B1B;
-    font-weight: bold;
+.show {
+  visibility: visible;
+  opacity: 1;
+}
+.colHead {
+  color: #681b1b;
+  font-weight: bold;
 }
 
-.colContent li a{
-    text-decoration: none;
-    color: black;
+.colContent li a {
+  text-decoration: none;
+  color: black;
 }
