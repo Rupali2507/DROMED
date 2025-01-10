@@ -172,7 +172,7 @@
 .section1 img{
   height: 50vh;
   padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding-bottom: 20vh;
 }
 
 .secContent{
@@ -187,4 +187,95 @@
 
 .secBody ul{
   list-style-type: square;
+}
+
+.section2{
+  background-color: #681b1b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px;
+  gap: 50px;
+}
+
+.sec2Heading{
+  font-size: 24px;
+  width: 40vw;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+
+.sec2Content{
+  display: flex;
+  color: white;
+  gap: 200px;
+}
+
+.sec2Column{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+}
+
+.sec2ColHead{
+  font-weight: bold;
+  text-align: center;
+}
+
+.sec2ColBody{
+  font-weight: lighter;
+}
+
+.sec2Column button{
+  border: none;
+  background-color: #681b1b;
+  font-weight: bold;
+  width: 10vw;
+}
+
+.subsSec{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px;
+  gap: 400px;
+}
+
+.emailInput input{
+  width: 20vw;
+  padding: 3px 9px;
+  border: 2px solid #681b1b;
+}
+
+.emailInput button{
+  padding: 3px 9px;
+  background-color: #681b1b;
+  color: white;
+  border: 2px solid #681b1b;
+}
+
+.tAndC{
+  font-size: 10px;
+  color: #681b1b;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  background-color: #681b1b;
+  font-size: 10px;
+}
+
+.footerLinks ul{
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.footerLinks ul li{
+  text-decoration: 1px underline;
 }
