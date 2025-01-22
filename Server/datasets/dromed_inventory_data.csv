@@ -1,0 +1,101 @@
+Product,Category,Current_Stock,Avg_Daily_Usage,Reorder_Point,Unit_Price,Last_Restock_Date,Supplier,Storage_Location
+Amlodipine 5mg,Medications,933,31,434,57.81,2025-01-14,MedLine Industries,Zone-C9
+Azithromycin 250mg,Medications,298,47,658,46.73,2025-01-02,MedLine Industries,Zone-C10
+Aspirin 325mg,Medications,874,28,392,23.57,2025-01-12,Cardinal Health,Zone-C16
+Aspirin 325mg,Medications,370,46,644,84.18,2025-01-11,Boston Scientific,Zone-A3
+Paracetamol 500mg,Medications,560,40,560,40.12,2025-01-02,Henry Schein Medical,Zone-C12
+Insulin Regular 100ml,Medications,133,27,378,18.65,2025-01-13,Johnson & Johnson Medical,Zone-B13
+Cetirizine 10mg,Medications,726,39,546,66.19,2025-01-18,Henry Schein Medical,Zone-C9
+Aspirin 325mg,Medications,541,19,266,44.92,2024-12-27,BD Medical,Zone-C14
+Aspirin 325mg,Medications,588,42,588,74.59,2025-01-01,Abbott Medical,Zone-D19
+Azithromycin 250mg,Medications,971,45,630,14.44,2025-01-09,MedLine Industries,Zone-D18
+Amoxicillin 500mg,Medications,207,18,252,94.33,2025-01-20,Boston Scientific,Zone-C7
+Insulin Regular 100ml,Medications,252,39,546,36.25,2025-01-12,Cardinal Health,Zone-A6
+Omeprazole 20mg,Medications,936,45,630,98.5,2024-12-23,Boston Scientific,Zone-B13
+Aspirin 325mg,Medications,901,31,434,21.93,2025-01-13,Abbott Medical,Zone-A7
+Insulin Regular 100ml,Medications,621,10,140,34.16,2025-01-18,BD Medical,Zone-C13
+Omeprazole 20mg,Medications,745,7,98,5.4,2024-12-27,Johnson & Johnson Medical,Zone-C17
+Paracetamol 500mg,Medications,810,10,140,7.27,2025-01-14,Abbott Medical,Zone-A14
+Amlodipine 5mg,Medications,450,12,168,6.05,2025-01-10,Johnson & Johnson Medical,Zone-A19
+Insulin Regular 100ml,Medications,526,46,644,72.71,2025-01-19,BD Medical,Zone-B19
+Aspirin 325mg,Medications,754,21,294,35.87,2024-12-25,Owens & Minor,Zone-A9
+Omeprazole 20mg,Medications,646,43,602,96.01,2025-01-09,Abbott Medical,Zone-A17
+Ibuprofen 400mg,Medications,526,23,322,59.42,2025-01-11,BD Medical,Zone-A5
+Azithromycin 250mg,Medications,457,24,336,35.42,2025-01-12,Henry Schein Medical,Zone-A15
+Amoxicillin 500mg,Medications,137,9,126,51.3,2025-01-15,Cardinal Health,Zone-D8
+Insulin Regular 100ml,Medications,382,41,574,31.0,2025-01-07,Cardinal Health,Zone-B3
+Gauze Rolls,First Aid,486,15,210,9.72,2024-12-31,Johnson & Johnson Medical,Zone-B10
+Antiseptic Wipes,First Aid,357,12,168,42.38,2025-01-14,Baxter Healthcare,Zone-A11
+Cotton Swabs,First Aid,258,8,112,26.48,2025-01-04,Abbott Medical,Zone-B12
+Wound Dressing,First Aid,285,3,42,47.63,2025-01-09,Owens & Minor,Zone-D18
+Surgical Gloves,First Aid,439,6,84,19.85,2025-01-07,McKesson Medical,Zone-C9
+Wound Dressing,First Aid,201,6,84,28.58,2025-01-12,MedLine Industries,Zone-A17
+Wound Dressing,First Aid,390,9,126,10.75,2024-12-27,McKesson Medical,Zone-B17
+Burn Dressing,First Aid,452,8,112,47.56,2025-01-08,MedLine Industries,Zone-A10
+Gauze Rolls,First Aid,122,20,280,12.39,2024-12-23,Johnson & Johnson Medical,Zone-C3
+Wound Dressing,First Aid,239,3,42,39.15,2024-12-26,Johnson & Johnson Medical,Zone-B13
+Antiseptic Wipes,First Aid,305,8,112,47.43,2024-12-25,Henry Schein Medical,Zone-C17
+Burn Dressing,First Aid,51,17,238,21.65,2025-01-01,MedLine Industries,Zone-C11
+Compression Bandages,First Aid,148,8,112,37.99,2025-01-10,Henry Schein Medical,Zone-A18
+Elastic Bandages,First Aid,288,6,84,35.76,2024-12-31,McKesson Medical,Zone-C19
+Adhesive Bandages,First Aid,389,13,182,9.81,2024-12-29,Henry Schein Medical,Zone-A3
+Surgical Gloves,First Aid,227,16,224,2.87,2025-01-14,Cardinal Health,Zone-B16
+Compression Bandages,First Aid,313,5,70,20.67,2024-12-26,Henry Schein Medical,Zone-D1
+Antiseptic Wipes,First Aid,193,4,56,42.91,2024-12-31,Owens & Minor,Zone-A18
+Burn Dressing,First Aid,53,6,84,30.67,2025-01-13,Boston Scientific,Zone-C7
+Adhesive Bandages,First Aid,455,8,112,26.0,2024-12-30,Baxter Healthcare,Zone-D9
+Elastic Bandages,First Aid,327,15,210,12.23,2025-01-20,Abbott Medical,Zone-D15
+Elastic Bandages,First Aid,81,17,238,16.47,2024-12-24,Baxter Healthcare,Zone-B4
+Cotton Swabs,First Aid,180,7,98,49.86,2025-01-14,Henry Schein Medical,Zone-A7
+Antiseptic Wipes,First Aid,329,7,98,20.64,2025-01-14,Henry Schein Medical,Zone-C18
+Elastic Bandages,First Aid,176,17,238,40.19,2025-01-06,Abbott Medical,Zone-D20
+Cold Packs,Emergency Supplies,464,14,196,42.8,2024-12-29,Baxter Healthcare,Zone-B11
+cervical collars,Emergency Supplies,259,11,154,41.2,2025-01-01,Boston Scientific,Zone-D7
+Syringes 5ml,Emergency Supplies,652,16,224,16.49,2025-01-11,BD Medical,Zone-B19
+Splints,Emergency Supplies,151,9,126,33.41,2024-12-29,MedLine Industries,Zone-A18
+Emergency Saline 500ml,Emergency Supplies,250,27,378,40.87,2025-01-04,Baxter Healthcare,Zone-A11
+Emergency Blankets,Emergency Supplies,441,20,280,44.2,2025-01-10,Johnson & Johnson Medical,Zone-D4
+Oxygen Masks,Emergency Supplies,220,3,42,48.24,2025-01-12,McKesson Medical,Zone-A7
+Blood Collection Tubes,Emergency Supplies,173,13,182,33.3,2025-01-12,McKesson Medical,Zone-A16
+Syringes 5ml,Emergency Supplies,112,12,168,30.31,2025-01-09,Cardinal Health,Zone-D3
+Blood Collection Tubes,Emergency Supplies,131,10,140,15.07,2025-01-07,Boston Scientific,Zone-A13
+Hot Packs,Emergency Supplies,388,14,196,46.86,2024-12-23,BD Medical,Zone-B12
+Syringes 5ml,Emergency Supplies,484,32,448,36.55,2025-01-12,Henry Schein Medical,Zone-A3
+Emergency Saline 500ml,Emergency Supplies,504,15,210,39.58,2025-01-05,Baxter Healthcare,Zone-C1
+IV Start Kits,Emergency Supplies,357,15,210,30.39,2024-12-23,Johnson & Johnson Medical,Zone-B5
+Oxygen Masks,Emergency Supplies,110,4,56,28.17,2025-01-12,McKesson Medical,Zone-C10
+Splints,Emergency Supplies,464,18,252,40.2,2025-01-12,MedLine Industries,Zone-B11
+IV Start Kits,Emergency Supplies,230,11,154,25.29,2025-01-02,Henry Schein Medical,Zone-C5
+Splints,Emergency Supplies,109,13,182,18.41,2025-01-13,Cardinal Health,Zone-A15
+Hot Packs,Emergency Supplies,242,6,84,37.76,2024-12-23,Cardinal Health,Zone-A12
+IV Start Kits,Emergency Supplies,322,8,112,28.1,2025-01-18,Henry Schein Medical,Zone-A10
+Emergency Blankets,Emergency Supplies,174,13,182,11.0,2025-01-12,MedLine Industries,Zone-C4
+Splints,Emergency Supplies,383,13,182,15.12,2025-01-01,Cardinal Health,Zone-A14
+Cold Packs,Emergency Supplies,443,19,266,13.94,2025-01-16,Baxter Healthcare,Zone-C15
+IV Start Kits,Emergency Supplies,265,8,112,48.29,2025-01-14,BD Medical,Zone-A5
+Splints,Emergency Supplies,403,17,238,15.99,2025-01-18,MedLine Industries,Zone-D9
+Blood Glucose Meters,Medical Devices,60,5,70,376.77,2024-12-25,Boston Scientific,Zone-D15
+Pregnancy Test Kits,Medical Devices,48,1,14,89.59,2025-01-10,Owens & Minor,Zone-B13
+Blood Glucose Meters,Medical Devices,22,4,56,373.26,2025-01-10,MedLine Industries,Zone-D19
+Stethoscopes,Medical Devices,64,2,28,122.37,2024-12-26,Cardinal Health,Zone-B2
+Stethoscopes,Medical Devices,26,4,56,199.68,2025-01-04,Cardinal Health,Zone-B11
+Hand Sanitizers,Medical Devices,44,3,42,171.6,2025-01-01,Johnson & Johnson Medical,Zone-B15
+Digital Thermometers,Medical Devices,23,1,14,264.82,2024-12-30,Owens & Minor,Zone-B14
+Stethoscopes,Medical Devices,71,2,28,410.44,2025-01-19,Boston Scientific,Zone-D18
+First Aid Kits,Medical Devices,87,1,14,239.13,2025-01-13,Henry Schein Medical,Zone-C17
+Blood Glucose Meters,Medical Devices,51,1,14,355.22,2025-01-14,Johnson & Johnson Medical,Zone-D5
+Hand Sanitizers,Medical Devices,24,1,14,344.76,2025-01-20,Henry Schein Medical,Zone-A12
+Blood Glucose Meters,Medical Devices,98,2,28,224.58,2025-01-13,Cardinal Health,Zone-C4
+First Aid Kits,Medical Devices,88,4,56,472.33,2025-01-10,BD Medical,Zone-C7
+First Aid Kits,Medical Devices,89,2,28,344.59,2025-01-08,BD Medical,Zone-D17
+Nebulizer Sets,Medical Devices,43,4,56,352.1,2024-12-23,Henry Schein Medical,Zone-D5
+Blood Glucose Meters,Medical Devices,49,5,70,102.89,2024-12-27,Johnson & Johnson Medical,Zone-D9
+Blood Pressure Cuffs,Medical Devices,93,1,14,348.96,2025-01-02,Abbott Medical,Zone-D6
+Digital Thermometers,Medical Devices,14,1,14,51.86,2024-12-23,Henry Schein Medical,Zone-B10
+Nebulizer Sets,Medical Devices,17,5,70,90.56,2025-01-21,MedLine Industries,Zone-D17
+Nebulizer Sets,Medical Devices,26,2,28,72.55,2025-01-14,Abbott Medical,Zone-A7
+First Aid Kits,Medical Devices,45,4,56,292.07,2025-01-04,MedLine Industries,Zone-B20
+Stethoscopes,Medical Devices,77,1,14,155.04,2025-01-14,MedLine Industries,Zone-B20
+Digital Thermometers,Medical Devices,43,1,14,89.54,2025-01-16,BD Medical,Zone-C11
+Blood Pressure Cuffs,Medical Devices,38,1,14,153.61,2025-01-06,Henry Schein Medical,Zone-D1
+Pulse Oximeters,Medical Devices,74,4,56,404.34,2024-12-24,Baxter Healthcare,Zone-A4
