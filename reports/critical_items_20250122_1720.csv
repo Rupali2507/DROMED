@@ -1,0 +1,10 @@
+Product,Category,Current_Stock,Avg_Daily_Usage,Reorder_Point,Unit_Price,Last_Restock_Date,Supplier,Storage_Location,Remaining_Days,Status
+Azithromycin 250mg,Medications,298,47,658,46.73,2025-01-02,MedLine Industries,Zone-C10,6.3,Critical
+Insulin Regular 100ml,Medications,133,27,378,18.65,2025-01-13,Johnson & Johnson Medical,Zone-B13,4.9,Critical
+Insulin Regular 100ml,Medications,252,39,546,36.25,2025-01-12,Cardinal Health,Zone-A6,6.5,Critical
+Gauze Rolls,First Aid,122,20,280,12.39,2024-12-23,Johnson & Johnson Medical,Zone-C3,6.1,Critical
+Burn Dressing,First Aid,51,17,238,21.65,2025-01-01,MedLine Industries,Zone-C11,3.0,Critical
+Elastic Bandages,First Aid,81,17,238,16.47,2024-12-24,Baxter Healthcare,Zone-B4,4.8,Critical
+Blood Glucose Meters,Medical Devices,22,4,56,373.26,2025-01-10,MedLine Industries,Zone-D19,5.5,Critical
+Stethoscopes,Medical Devices,26,4,56,199.68,2025-01-04,Cardinal Health,Zone-B11,6.5,Critical
+Nebulizer Sets,Medical Devices,17,5,70,90.56,2025-01-21,MedLine Industries,Zone-D17,3.4,Critical

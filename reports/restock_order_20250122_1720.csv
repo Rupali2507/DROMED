@@ -1,0 +1,30 @@
+Product,Category,Current_Stock,Reorder_Point,Quantity_To_Order,Unit_Price,Estimated_Cost,Supplier
+Azithromycin 250mg,Medications,298,658,1018,46.73,47571.14,MedLine Industries
+Aspirin 325mg,Medications,370,644,918,84.18,77277.24,Boston Scientific
+Paracetamol 500mg,Medications,560,560,560,40.12,22467.199999999997,Henry Schein Medical
+Insulin Regular 100ml,Medications,133,378,623,18.65,11618.949999999999,Johnson & Johnson Medical
+Aspirin 325mg,Medications,588,588,588,74.59,43858.920000000006,Abbott Medical
+Amoxicillin 500mg,Medications,207,252,297,94.33,28016.01,Boston Scientific
+Insulin Regular 100ml,Medications,252,546,840,36.25,30450.0,Cardinal Health
+Insulin Regular 100ml,Medications,526,644,762,72.71,55405.02,BD Medical
+Insulin Regular 100ml,Medications,382,574,766,31.0,23746.0,Cardinal Health
+Gauze Rolls,First Aid,122,280,438,12.39,5426.820000000001,Johnson & Johnson Medical
+Burn Dressing,First Aid,51,238,425,21.65,9201.25,MedLine Industries
+Burn Dressing,First Aid,53,84,115,30.67,3527.05,Boston Scientific
+Elastic Bandages,First Aid,81,238,395,16.47,6505.65,Baxter Healthcare
+Elastic Bandages,First Aid,176,238,300,40.19,12057.0,Abbott Medical
+Emergency Saline 500ml,Emergency Supplies,250,378,506,40.87,20680.219999999998,Baxter Healthcare
+Blood Collection Tubes,Emergency Supplies,173,182,191,33.3,6360.299999999999,McKesson Medical
+Syringes 5ml,Emergency Supplies,112,168,224,30.31,6789.44,Cardinal Health
+Blood Collection Tubes,Emergency Supplies,131,140,149,15.07,2245.43,Boston Scientific
+Splints,Emergency Supplies,109,182,255,18.41,4694.55,Cardinal Health
+Emergency Blankets,Emergency Supplies,174,182,190,11.0,2090.0,MedLine Industries
+Blood Glucose Meters,Medical Devices,60,70,80,376.77,30141.6,Boston Scientific
+Blood Glucose Meters,Medical Devices,22,56,90,373.26,33593.4,MedLine Industries
+Stethoscopes,Medical Devices,26,56,86,199.68,17172.48,Cardinal Health
+Nebulizer Sets,Medical Devices,43,56,69,352.1,24294.9,Henry Schein Medical
+Blood Glucose Meters,Medical Devices,49,70,91,102.89,9362.99,Johnson & Johnson Medical
+Digital Thermometers,Medical Devices,14,14,14,51.86,726.04,Henry Schein Medical
+Nebulizer Sets,Medical Devices,17,70,123,90.56,11138.880000000001,MedLine Industries
+Nebulizer Sets,Medical Devices,26,28,30,72.55,2176.5,Abbott Medical
+First Aid Kits,Medical Devices,45,56,67,292.07,19568.69,MedLine Industries
